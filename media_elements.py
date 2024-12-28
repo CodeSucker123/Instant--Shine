@@ -4,5 +4,5 @@ st.title("Instant Shine")
 
 st.subheader("Contact information")
 
-st.image("./media/Info.jpg")
+st.image("Info.jpg")
 
